@@ -1,0 +1,15 @@
+li {
+    display: none;
+    list-style: square;
+}
+
+button {
+    font-size: 24px;
+    border: 2px dashed black;
+}
+
+button:hover {
+    border: 2px dashed white;
+    color: white;
+    background-color: black;
+}
