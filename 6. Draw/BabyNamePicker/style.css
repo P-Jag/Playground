@@ -1,0 +1,18 @@
+html {
+    font-family: Arial;
+}
+
+button {
+    display: block;
+    margin: 50px auto 50px;
+    background-color: white;
+    border: 5px solid cadetblue;
+    padding: 20px 50px;
+    font-size: 22px;
+}
+
+div {
+    margin: 10px;
+    font-size: 26px;
+    text-align: center;
+}
