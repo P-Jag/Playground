@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    font-family: arial;
+    color: white;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 22px;
+}
